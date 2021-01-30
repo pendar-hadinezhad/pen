@@ -1,2 +1,2 @@
 # pen
-# hi . h love python and machune learning
+# hi . im a python and machine learning beginner
